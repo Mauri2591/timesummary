@@ -1,0 +1,14 @@
+#calendar {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+/*-------------- Fin Calendario ---------------*/
+
+.table_tareas{
+  max-height: 200px; /* Ajusta este valor según sea necesario */
+  overflow-y: auto;
+  border-collapse: collapse;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
